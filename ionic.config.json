@@ -1,0 +1,7 @@
+{
+  "name": "instagramc-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
